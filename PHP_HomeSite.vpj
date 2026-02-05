@@ -1,0 +1,150 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+    Version="10.0"
+    VendorName="SlickEdit"
+    TemplateName="PHP"
+    WorkingDir=".">
+    <Files AutoFolders="DirectoryView">
+        <Folder
+            Name="Source Files"
+            Filters="*.htm;*.html;*.shtml;*.asp;*.jsp;*.php;*.php3;*.rhtml"
+            GUID="{7744A4F4-8938-40B3-845C-CC5F12F91D2E}">
+            <F
+                N="*.htm"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.html"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.shtml"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.asp"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.jsp"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.php"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.php3"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+            <F
+                N="*.rhtml"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+        </Folder>
+        <Folder
+            Name="Other Files"
+            Filters=""
+            GUID="{1A6BE573-D746-49B5-87F5-1FBE5CC0CCE3}">
+            <F
+                N="*.css"
+                Recurse="1"
+                Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.vpb;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.git/;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistxml;*.vpwhistu;*.vpwhistuxml;*.vpwwildcardcache"/>
+        </Folder>
+    </Files>
+    <Config
+        Name="Debug"
+        DebugCallbackName="xdebug"
+        Type="php"
+        OutputFile=""
+        CompilerConfigName="">
+        <Menu>
+            <Target
+                Name="Execute"
+                MenuCaption="E&amp;xecute"
+                Dialog="_php_options_form Run"
+                CaptureOutputWith="ProcessBuffer"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw"
+                Deletable="0">
+                <Exec
+                    CmdLine="php_execute %(SLICKEDIT_PHP_EXECUTE_ARGS)"
+                    Type="Slick-C"/>
+            </Target>
+            <Target
+                Name="Debug"
+                MenuCaption="&amp;Debug"
+                Dialog="_php_options_form Debug"
+                CaptureOutputWith="ProcessBuffer"
+                SaveOption="SaveNone"
+                RunFromDir="%rw"
+                Deletable="0">
+                <Exec
+                    CmdLine="php_debug"
+                    Type="Slick-C"/>
+            </Target>
+            <Target
+                Name="PHP Options"
+                MenuCaption="PHP &amp;Options"
+                ShowOnMenu="HideIfNoCmdLine"
+                Deletable="0">
+                <Exec
+                    CmdLine="phpoptions"
+                    Type="Slick-C"/>
+            </Target>
+        </Menu>
+        <List Name="PHP Options">
+            <Item
+                Name="AppType"
+                Value="web-local"/>
+            <Item
+                Name="DefaultFile"
+                Value=""/>
+            <Item
+                Name="ScriptArguments"
+                Value=""/>
+            <Item
+                Name="InterpreterArguments"
+                Value=""/>
+            <List Name="Map">
+                <Item
+                    Name="RemoteUrl"
+                    Value="http://localhost"/>
+                <Item
+                    Name="LocalRoot"
+                    Value="/home/developer/repositories/PHP_HomeSite/"/>
+            </List>
+        </List>
+        <List Name="Xdebug Options">
+            <Item
+                Name="ServerHost"
+                Value="127.0.0.1"/>
+            <Item
+                Name="ServerPort"
+                Value="9000"/>
+            <Item
+                Name="ListenInBackground"
+                Value="1"/>
+            <Item
+                Name="StayInDebugger"
+                Value="1"/>
+            <Item
+                Name="AcceptConnections"
+                Value="prompt"/>
+            <Item
+                Name="BreakInSession"
+                Value="step-into"/>
+            <Item
+                Name="show_hidden"
+                Value="1"/>
+            <List Name="Map">
+                <Item
+                    Name="RemoteRoot"
+                    Value="/home/developer/repositories/PHP_HomeSite/"/>
+                <Item
+                    Name="LocalRoot"
+                    Value="/home/developer/repositories/PHP_HomeSite/"/>
+            </List>
+        </List>
+    </Config>
+</Project>

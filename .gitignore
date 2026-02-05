@@ -1,0 +1,11 @@
+
+# SlickEdit project files
+*.vpwhist*
+*.vpwwild*
+*.vtg
+
+# Ignore vendor files
+vendor/
+
+
+

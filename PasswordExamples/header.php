@@ -7,8 +7,7 @@
 // 2.) If the user is logged in links to the protected_page.php and logout.php is shown.
 // 3.) CSS Link: A link to an external stylesheet (styles.css) is included.  This must
 //        point to your actual CSS file.
-// 4.) HTML Structure: Includes the basic structure for a header (<header>) and a 
-          navigation bar (<nav>).
+// 4.) HTML Structure: Includes the basic structure for a header (<header>) and a navigation bar (<nav>).
 
 // Usage: Use PHP's include() or require() functions.  for example in index.php you could 
 //        write:  <?php include('header.php');

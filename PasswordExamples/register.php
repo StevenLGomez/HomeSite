@@ -12,8 +12,7 @@
 // 4.) Redirect on Success: After successful registration, the user is redirected to login.php,
 //          and a success message is set in the session.
 // 5.) Error Display: Displays any form errors above the registration form.
-// 6.) Success Message: If successful a message is displayed when the user returns to the
-            registration page.
+// 6.) Success Message: If successful a message is displayed when the user returns to the registration page.
 
 
 // Start the session

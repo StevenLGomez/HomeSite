@@ -13,8 +13,8 @@
 // 1.) Replace DB Credentials: Make sure to replace the placeholder values ('your_database', 'your_user', 'your_pass)
 //           with your actual DB values.
 // 2.) Include db.php in Other Scripts: In any PHP script where you need to access the DB, include
-//           this file at the top:
-             require_once 'dd.php';
+//           this file at the top:   
+//           require_once 'dd.php';
 
 
 

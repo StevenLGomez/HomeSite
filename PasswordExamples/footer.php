@@ -1,7 +1,7 @@
 
 <?php
-Usage: Include footer.php by using include() or require().  For example:
-       <?php include ('footer.php'); ?>
+// Usage: Include footer.php by using include() or require().  For example:
+//        <?php include ('footer.php'); 
 ?>
 
 <footer>
